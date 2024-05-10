@@ -1,0 +1,1 @@
+# projeto_alura_google_embeddings
